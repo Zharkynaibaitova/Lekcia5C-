@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\bin\Debug\net6.0\primery.exe
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\bin\Debug\net6.0\primery.deps.json
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\bin\Debug\net6.0\primery.runtimeconfig.json
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\bin\Debug\net6.0\primery.dll
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\bin\Debug\net6.0\primery.pdb
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.AssemblyInfo.cs
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.dll
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\refint\primery.dll
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.pdb
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\primery.genruntimeconfig.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\primery\obj\Debug\net6.0\ref\primery.dll
