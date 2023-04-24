@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\bin\Debug\net6.0\Sem5C#_Homework.exe
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\bin\Debug\net6.0\Sem5C#_Homework.deps.json
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\bin\Debug\net6.0\Sem5C#_Homework.runtimeconfig.json
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\bin\Debug\net6.0\Sem5C#_Homework.dll
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\bin\Debug\net6.0\Sem5C#_Homework.pdb
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.AssemblyInfo.cs
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.dll
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\refint\Sem5C#_Homework.dll
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.pdb
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\Sem5C#_Homework.genruntimeconfig.cache
+C:\Users\user\Desktop\Lekcia5C#\Lekcia5C-\Sem5C#_Homework\obj\Debug\net6.0\ref\Sem5C#_Homework.dll
